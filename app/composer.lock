@@ -228,12 +228,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/cache.git",
-                "reference": "438b0846ced5c77166be82eedf3b5b20fe7f6444"
+                "reference": "9fbb6081c832bddd5d964485086682791920d9eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/cache/zipball/438b0846ced5c77166be82eedf3b5b20fe7f6444",
-                "reference": "438b0846ced5c77166be82eedf3b5b20fe7f6444",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/9fbb6081c832bddd5d964485086682791920d9eb",
+                "reference": "9fbb6081c832bddd5d964485086682791920d9eb",
                 "shasum": ""
             },
             "require": {
@@ -316,7 +316,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-03-09T16:20:38+00:00"
+            "time": "2023-03-10T10:08:00+00:00"
         },
         {
             "name": "symfony/cache-contracts",
